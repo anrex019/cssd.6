@@ -144,7 +144,7 @@
     margin-top: 32px;
 }
 
-#messageimg, #zipimg #chartimg {
+#messageimg, #chartimg {
     margin-bottom: 18px;
     border-radius: 50%;
 }
@@ -153,3 +153,31 @@
     margin-top: 96px;
     margin-left: 32px;
 }
+
+#zapimg {
+    margin-bottom: 30px;
+    border-radius: 50%;
+}
+
+#sharetexttwo {
+    margin-bottom: 15px;
+}
+
+#container_four {
+    display: inline-block;
+    width: 45%;
+    margin-top: 96px;
+    margin-left: 32px;
+}
+
+#lastcontainer {
+    max-width: 1216px;
+    margin-top: 96px;
+}
+
+#analyticlastdiv {
+    width: 45%;
+    display: inline-block;
+    
+}
+
