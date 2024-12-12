@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#maindiv {
+    max-width: 1920px;
+    padding: 64px 158px 268px 158px;
+    align-items: center;
+
+}
+
+#maincontainer {
+    max-width: 1412;
+    width: 100%;
+    padding: 96px;
+    align-items: center;
+    background: #E4EBFF;
+
+}
+
+#container {
+    max-width: 1280px;
+    height: 1960px;
+    background: #FFF;
+}
+
+#headcontainer {
+    padding: 96px 32px;
+    text-align: center;
+    max-width: 1216px;
+    margin: 0 auto;
+}
+
+#features {
+    color: #6941C6;
+}
+
+#analyticshead {
+    color: #181D27;
+    margin-top: 12px;
+}
+
+#headtext {
+    color: #535862;
+    margin-top: 32px;
+}
+
+#analyticsdivone {
+    max-width: 1280px;
+    padding: 0 32px;
+    align-items: center;
+
+}
+
+#analyticscontainer {
+    display: inline-block;
+    width: 45%;
+
+
+}
+
+#itemone,
+#itemtwo,
+#itemthree {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#iconone,
+#icontwo,
+#iconthree {
+    width: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+#checkcontainer,
+#checkcontainertwo {
+    margin-top: 32px;
+}
+
+#sharetext,
+#sharetext2 {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#whethertext,
+#whethertext {
+    margin-top: 16px;
+    font-size: 18px;
+}
+
+#analyticsdivtwo {
+    width: 45%;
+    display: inline-block;
+    margin-left: 85px;
+}
+
+#imgone,
+#imgtwo {
+    width: 100%;
+
+}
+
+#containerTwo {
+    margin-top: 96px;
+}
+
+#containertwo {
+    width: 45%;
+    display: inline-block;
+
+
+}
+
+#containerthree {
+    display: inline-block;
+    width: 45%;
+    margin-left: 85px;
+}
+
+
+
+#itemicon,
+#itemcircle,
+#itemcheck {
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+#iconfour,
+#iconfive,
+#iconsix {
+    width: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+#checkcontainerthree {
+    margin-top: 32px;
+}
+
+#messageimg, #zipimg #chartimg {
+    margin-bottom: 18px;
+    border-radius: 50%;
+}
+
+#lastanalyticsdiv {
+    margin-top: 96px;
+    margin-left: 32px;
+}
